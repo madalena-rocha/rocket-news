@@ -24,18 +24,9 @@ body {
     font-size: 1.6rem; /* 16px */
 }
 
-/* ==== CONTAINER ================= */
-/*
-.container {
-    width: 144rem;
-    height: 78rem;
-}
-*/
 /* ==== MAIN ====================== */
 
 .main {
-    /*width: 72rem;
-    height: 78rem;*/
     width: 50%;
     height: 100vh;
     background: var(--body-bg-color);
@@ -171,9 +162,6 @@ body {
 
 .aside img {
     position: absolute;
-    /*width: 117.5rem;
-    height: 90rem;
-    margin-left: 37.6rem;*/
     height: 100vh;
     top: 0;
     right: 0;
