@@ -115,7 +115,8 @@ body {
 
     color: #6A6A6A;
 
-    padding-left: 1rem;
+    padding: 1rem;
+    border: none;
 }
 
 .content form button {
